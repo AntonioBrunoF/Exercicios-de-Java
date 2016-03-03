@@ -1,0 +1,3 @@
+nome: bruno	
+idade: 21
+sexo: masculino
